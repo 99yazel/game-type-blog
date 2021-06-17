@@ -1,7 +1,7 @@
 # game-type-blog
-desc : game-type-blog 
-author : jaylee222
-date : 2021-06-17
+- desc : game-type-blog 
+- author : jaylee222
+- date : 2021-06-17
 
 ## 주요기술 스택 (Front End)
 
